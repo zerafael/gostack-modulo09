@@ -35,6 +35,12 @@ export const Content = styled.div`
     }
   }
 
+  span {
+    color: #d8000c;
+    align-self: flex-start;
+    margin: 0 0 10px;
+  }
+
   button {
     margin: 5px 0 0;
     height: 44px;
